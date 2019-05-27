@@ -3,4 +3,6 @@
 Complete this poem:
 
 Roses are red,
-Violets are blue
+Violets are blue,
+Sugar is sweet,
+And so are you.
