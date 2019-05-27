@@ -18,6 +18,7 @@ function getEvenNumbers(nums) {
         arr.push(num);
       }
     });
+  return arr;  //   YOU HAVE TO RETURN IT!!
   };
 
 module.exports = {
