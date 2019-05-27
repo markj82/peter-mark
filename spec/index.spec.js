@@ -1,5 +1,5 @@
 const {expect} = require('chai');
-const {sum, minus} = require('../index');
+const {sum, minus, getEvenNumbers} = require('../index');
 
 describe('sum', () => {
   it('returns sum of two given numbers', () => {
