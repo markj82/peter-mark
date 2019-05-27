@@ -1,0 +1,23 @@
+{
+  "name": "firsttests",
+  "version": "1.0.0",
+  "description": "No poem from now, just work haha!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markj82/peter-mark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markj82/peter-mark/issues"
+  },
+  "homepage": "https://github.com/markj82/peter-mark#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}

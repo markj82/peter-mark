@@ -1,6 +1,7 @@
-// Sum funcition
+// sum funcition
 
-function Sum(a,b){
-  var c = a + b;
-  return c
+function sum(a,b){  
+  return a + b;
 }
+
+module.exports = sum;
