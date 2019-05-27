@@ -27,3 +27,11 @@ describe('minus', () => {
     expect(actual).to.equal(expected);
   });
 });
+
+describe('getEvenNumbers', () => {
+    it('returns an array of all even numbers in the passed array', () => {
+      expect(getEvenNumbers([1, 2, 3])).to.eql([2]);
+      expect(getEvenNumbers([2, 4, 6])).to.eql([2, 4, 6]);
+      expect(getEvenNumbers([1, 3, 5])).to.eql([]);
+    });
+  });
