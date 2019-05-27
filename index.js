@@ -1,6 +1,6 @@
 // Sum funcition
 
-function Sum(a,b){
+function sum(a,b){
   var c = a + b;
   return c
 }
